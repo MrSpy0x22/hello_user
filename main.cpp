@@ -7,5 +7,5 @@ int main()
   cout << "Jak sie nazywasz? ";
   cin >> uname;
   cout << endl << "Witaj " << uname << " ! :)\n";
-  return 1;
+  return 0;
 }
